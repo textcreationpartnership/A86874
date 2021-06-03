@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble representation and resolution of the officers &amp; souldiers of Lieut. Generall Cromwel's regiment. Subscribed by the officers and souldiers present at the rendezvouz of the regiment neer Aldermaston, and presented to his Excellency by Lieutenant Iohn Byfield.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86874</idno><idno type="EEBO-CITATION">99865088</idno>
+  <idno type="VID">165153</idno>
+  <idno type="EEBO-PROQUEST">2240915929</idno>
+  
+            <idno type="STC">Wing H3636</idno>
+            <idno type="STC">Thomason E557_10</idno>
+            <idno type="STC">ESTC R205833</idno>
+            <idno type="PROQUEST">99865088</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865088e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165153)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E557[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble representation and resolution of the officers &amp; souldiers of Lieut. Generall Cromwel's regiment. Subscribed by the officers and souldiers present at the rendezvouz of the regiment neer Aldermaston, and presented to his Excellency by Lieutenant Iohn Byfield.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Blackmore at the Angell in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165153:1"/>
+            <p>The humble REPRESENTATION AND RESOLUTIONS OF The Officers &amp; Souldiers OF Lieut. Generall <hi>CROMWEL's</hi> REGIMENT.</p>
+            <p>Subscribed by the Officers and Souldiers present at the Rendezvouz of the Regiment neer <hi>Aldermaston,</hi> and presented to his Excellency by Lieutenant <hi>Iohn Byfield.</hi>
+            </p>
+            <p>London, Printed for <hi>Edw. Blackmore</hi> at the <hi>Angell</hi> in St. <hi>Pauls</hi> Church-yard. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb facs="tcp:165153:2"/>
+            <pb n="3" facs="tcp:165153:2"/>
+            <head>To his Excellency <hi>Thomas Lord Fairfax, Lord General of all the Parliaments Forces, both in ENGLAND and IRELAND:</hi> The humble Representation and Resolutions of the Officers and Souldiers in Lieutenant General <hi>CROMWEL'S</hi> Regiment.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He manifold experiences we have had of your Excellen<g ref="char:EOLhyphen"/>cies happy Conduct, ever since the goodnesse of God hath set you over us, and the many signall Victories he hath been pleased to make you instrumentall in, unto the twice totall subduing of a powerfull Enemy; together with our sensibleness of Gods love to this present Par<g ref="char:EOLhyphen"/>liament, in carrying them through so great and glorious undertakings for the good of this Common-wealth, the benefit of which, we hope all honest men will be sensible of. In consideration of these things, we are at a losse within our selves, that any generation of men amongst us (espe<g ref="char:EOLhyphen"/>cially of such large professions) who have tasted of the same mercies we have done, should now (through the pride and ambition of their hearts) so manifestly deny and disown God, by such an unchristian and
+<pb n="4" facs="tcp:165153:3"/> unheard of rejection in casting off the authority of this present Parliament and your Excellency, as divers of late have not onely attempted, but al<g ref="char:EOLhyphen"/>so effected.</p>
+            <p>Therefore, we the Officers and Souldiers of Lieutenant General <hi>Crom<g ref="char:EOLhyphen"/>wel</hi>'s Regiment, do in all humility represent to your Excellencie, That we have been, and are sadly affected in our spirits with the thoughts of that horrid and unnaturall defection so lately made from the Parliaments and your Excellencies authoritie: And each of us in particular professe, that we do from our hearts disavow the having any hand, directly or in<g ref="char:EOLhyphen"/>directly, in owning or countenancing the Revolt or Capitulation of the twelve Troops of Horse of your Army, or any others, lately or now op<g ref="char:EOLhyphen"/>posing the Parliaments or your Excellencies authoritie: And that we neither did, nor do own or countenance any of those late printed papers, which have scandalized the Parliament, Councel of State, or your Ex<g ref="char:EOLhyphen"/>cellencies authority derived from them. And we desire to blesse God, who hath enabled your Excellencie so seasonably to reduce those, who otherwise, by their destructive principles, might have brought confusi<g ref="char:EOLhyphen"/>on upon the Nation. And for the manifestation of our faithfulnesse and obedience, We do further professe, That we shall, by the grace of God, hazard our lives, and all that is deer unto us, for the preservation of this Parliament (the supreme Authority of the Nation) in setling the just Rights of the People according to their late Acts and Declarations: And while we are Souldiers, we shall cheerfully submit unto your Excellen<g ref="char:EOLhyphen"/>cies authoritie over us, under them, and to the discipline of the Army now practised amongst us, against any person or persons, that under any notion or pretence whatsoever shall go about to overthrow or de<g ref="char:EOLhyphen"/>stroy the same. And accounting it both our duty and honour to be obe<g ref="char:EOLhyphen"/>dient to your Excellency, in putting in execution your Commands, ac<g ref="char:EOLhyphen"/>cording to the power and authority given you by Parliament: withall, resolving to use our utmost endeavours to discover all such persons that shall by way of Agitators, or otherwise, endeavour disturbance amongst us, to break the present Government and peace of the Army.</p>
+            <p>And because it hath been rumoured, That this Regiment had an inten<g ref="char:EOLhyphen"/>tion to have seized upon the person of the Lieutenant Generall, in or<g ref="char:EOLhyphen"/>der to the carrying on that rebellious Designe: We professe, for our parts, we never had the least knowledge of any such thing. And if any person or persons lately amongst us, at any meeting in <hi>London</hi> or else<g ref="char:EOLhyphen"/>where, have promised or engaged in the name of the Regiment; any thing tending thereunto, it hath proceeded from the treachery of their own hearts, with whom we leave it; not doubting but God will in due
+<pb n="5" facs="tcp:165153:3"/> time discover such deeds of darknesse: And as we hope our desire of a<g ref="char:EOLhyphen"/>voydance of such from amongst us, whose principles might lead them to such an action, will in some measure vindicate us; so we further add, That as we could not but have accounted it a detestable crime for any part of the Army to have attempted (much more to have done) such an act: so in us (by how much the neerer we stand related to him, as being our Colonel, and of whose fidelity we have had such ample testi<g ref="char:EOLhyphen"/>monie) it would have been most of all wicked and abominable.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Blackmore <hi>Major</hi>
+                     </item>
+                     <item>George Ensor <hi>Captain</hi>
+                     </item>
+                     <item>Edward Scotton <hi>Captain</hi>
+                     </item>
+                     <item>Jos. Wallington <hi>Capt. Lieutenant</hi>
+                     </item>
+                     <item>John Bifield <hi>Lieutenant</hi>
+                     </item>
+                     <item>John Hurdman <hi>Lieut.</hi>
+                     </item>
+                     <item>James Goodwin <hi>Lieut.</hi>
+                     </item>
+                     <item>Richard Southwood <hi>Lieut.</hi>
+                     </item>
+                     <item>John Fox <hi>Cornet</hi>
+                     </item>
+                     <item>Thomas Barker <hi>Cornet</hi>
+                     </item>
+                     <item>William Cobb <hi>Cornet</hi>
+                     </item>
+                     <item>Theophilus Barnard <hi>Cornet</hi>
+                     </item>
+                     <item>William Stofford <hi>Cornet</hi>
+                     </item>
+                     <item>Tho. Savage <hi>Cornet</hi>
+                     </item>
+                     <item>Edward Warren <hi>Quartermaster</hi>
+                     </item>
+                     <item>Henry Huntington <hi>Quarterm.</hi>
+                     </item>
+                     <item>Willlam Tatton <hi>Quarterm.</hi>
+                     </item>
+                     <item>Francis Brown <hi>Quarterm.</hi>
+                     </item>
+                     <item>Henry Hill <hi>Quarterm.</hi>
+                     </item>
+                     <item>Samuel Whiting <hi>Quartermaster</hi>
+                     </item>
+                     <item>Thomas Crutchley <hi>Chirurgian.</hi>
+                     </item>
+                     <item>George Ovens <hi>Corporal</hi>
+                     </item>
+                     <item>Rich. Winsmore <hi>Corporal</hi>
+                     </item>
+                     <item>Jon Haukes <hi>Corporal</hi>
+                     </item>
+                     <item>Thomas Rimshing <hi>Corporal</hi>
+                     </item>
+                     <item>Richard Atkins <hi>Corporal</hi>
+                     </item>
+                     <item>Richard Duffield <hi>Corporal</hi>
+                     </item>
+                     <item>Thomas Curd <hi>Corporal</hi>
+                     </item>
+                     <item>Samuel Cockerell <hi>Corporal</hi>
+                     </item>
+                     <item>William Smith <hi>Corporal</hi>
+                     </item>
+                     <item>Ralph Page <hi>Corporal</hi>
+                     </item>
+                     <item>Henry Bolney <hi>Corporal</hi>
+                     </item>
+                     <item>Robert Last <hi>Corporal</hi>
+                     </item>
+                     <item>Tho. Newport <hi>Corporal</hi>
+                     </item>
+                     <item>John Piggot <hi>Corporal</hi>
+                     </item>
+                     <item>Rich. Evesden <hi>Corporal</hi>
+                     </item>
+                     <item>John Spilsworth <hi>Trumpet.</hi>
+                     </item>
+                     <item>Robert Soane <hi>Trumpet</hi>
+                     </item>
+                     <item>Wil. Buckley <hi>Trumpet</hi>
+                     </item>
+                     <item>John Turner <hi>Trumpet</hi>
+                     </item>
+                     <item>Rich. Whitney <hi>Trumpet</hi>
+                     </item>
+                     <item>Matthew Jaques <hi>Trumpet</hi>
+                     </item>
+                     <item>John Nicholas <hi>Trumpet</hi>
+                     </item>
+                     <item>Henry Burkley <hi>Trumpet</hi>
+                     </item>
+                     <item>Oliver Holmes <hi>Trumpet</hi>
+                     </item>
+                     <item>George Collins <hi>Trumpet.</hi>
+                     </item>
+                     <item>Rich. Mussen. <hi>Trumpet.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <pb n="6" facs="tcp:165153:4"/>
+                     <head>Of the Colonels Troop.</head>
+                     <item>MIchel Thomas</item>
+                     <item>George Reymes</item>
+                     <item>Francis Horton</item>
+                     <item>Thomas Rudd</item>
+                     <item>John Blackwell</item>
+                     <item>Philip Barton</item>
+                     <item>Jo. St. Iohn</item>
+                     <item>Jo. Clarke</item>
+                     <item>Henry Lloyd</item>
+                     <item>Luke Gilbert</item>
+                     <item>Edw. Fernhead</item>
+                     <item>Ralph Crosby</item>
+                     <item>John Cooper</item>
+                     <item>Robert Spilling</item>
+                     <item>Dan. Sicklemore</item>
+                     <item>John Norman</item>
+                     <item>William Knight</item>
+                     <item>Morris Bishopp</item>
+                     <item>Jo. Finderne</item>
+                     <item>Henry Faggeter</item>
+                     <item>John Watkins</item>
+                     <item>John Lemmar</item>
+                     <item>John Wells</item>
+                     <item>Francis Harris</item>
+                     <item>William White</item>
+                     <item>Gabriel Thornton</item>
+                     <item>James Walton</item>
+                     <item>Robert Littlewood</item>
+                     <item>Jonathan Ludlam</item>
+                     <item>Tho. Bromwell</item>
+                     <item>Griffith Williams</item>
+                     <item>Tho. Dowe</item>
+                     <item>Will. Robinson</item>
+                     <item>Christoph. Ball</item>
+                     <item>William Watson</item>
+                     <item>John Eudell</item>
+                     <item>George Pearce</item>
+                     <item>Jo. Remnant</item>
+                     <item>Tho. Fullove</item>
+                     <item>Tho. Ferrers</item>
+                     <item>Edward Lloyd</item>
+                     <item>Dan. Rust</item>
+                     <item>William Babbs</item>
+                     <item>James Aylott</item>
+                     <item>George Parker</item>
+                     <item>Joseph Pidgeon</item>
+                     <item>Jo. Chapman</item>
+                     <item>Rich. Beach</item>
+                  </list>
+                  <list>
+                     <head>Of the Majors Troop.</head>
+                     <item>NIcholas Carter</item>
+                     <item>John Cuffe</item>
+                     <item>Dan. Vandermark</item>
+                     <item>Tho. Brightman</item>
+                     <item>Will. Messinger</item>
+                     <item>Henry Fox</item>
+                     <item>Tho. Cotes</item>
+                     <item>Henry Ward</item>
+                     <item>Jo. George</item>
+                     <item>John Assey</item>
+                     <item>Tho. Knight</item>
+                     <item>Ja. Flaxman</item>
+                     <item>Thomas Saye</item>
+                     <item>Richard Boyce</item>
+                     <item>Thomas Smith</item>
+                     <item>Leo. Suttrington</item>
+                     <item>Robert Howes</item>
+                     <item>Robert Denny</item>
+                     <item>John Cooke</item>
+                     <item>Rich. Stanger</item>
+                     <item>James Long</item>
+                     <item>William Adison</item>
+                     <item>Jo. Paddon</item>
+                     <item>Tho. Dirkin</item>
+                     <item>Tho. Browne.</item>
+                     <item>Jo. Witty</item>
+                     <item>Robert Allen</item>
+                     <item>John Yaxley</item>
+                     <item>Robert Dorey</item>
+                     <item>Sam. Hayleck</item>
+                     <item>Tho. Bray</item>
+                     <item>Peter Oke</item>
+                     <item>George Mitton</item>
+                     <item>Robert Luke</item>
+                     <item>Sam. Perkins</item>
+                     <item>Tho. Heckerby</item>
+                     <item>Rich. Smith</item>
+                     <item>Edw. Symmons</item>
+                     <item>Jo. Berry</item>
+                     <item>Jo. Payne</item>
+                     <item>William Knight</item>
+                     <item>Cha. Pierce</item>
+                     <item>George Feke</item>
+                     <item>Rich. Harrison</item>
+                     <item>William Selby</item>
+                     <item>Tho. Harrison</item>
+                     <item>Matth. Sparks</item>
+                     <item>Chr. Boyce</item>
+                     <item>Iohn Gouge</item>
+                     <item>Richard Fowler</item>
+                     <item>Tho. Dunham</item>
+                     <item>Tho. Howard</item>
+                     <item>William Gaunt</item>
+                     <item>Richard Meede</item>
+                     <item>Iacob Beraway</item>
+                     <item>Edw. Newman.</item>
+                  </list>
+                  <list>
+                     <head>Of Captain <hi>Jenkins</hi> Troop.</head>
+                     <item>IOhn Walters</item>
+                     <item>William Kent</item>
+                     <item>Io. West</item>
+                     <item>Phil. Dusare</item>
+                     <item>Vincent Barnet</item>
+                     <pb n="7" facs="tcp:165153:4"/>
+                     <item>Will. Croskill</item>
+                     <item>Io. Edwards</item>
+                     <item>Io. Moody</item>
+                     <item>Ed. Meddowes</item>
+                     <item>Tho. Gatts</item>
+                     <item>David Browne</item>
+                     <item>Io. Moore</item>
+                     <item>David Hovy.</item>
+                     <item>Will. Smith</item>
+                     <item>Will. Lloyd</item>
+                     <item>Io. Downham</item>
+                     <item>Robert Ward</item>
+                     <item>Tho. Bunne</item>
+                     <item>Io. Twayts</item>
+                     <item>Tho. Wilson</item>
+                     <item>Ier. Iakes</item>
+                     <item>George Loyton</item>
+                     <item>Dan. Franke</item>
+                     <item>Tho. Edwards</item>
+                     <item>Tho. Basye</item>
+                     <item>Will. Benson</item>
+                     <item>Peter Benson</item>
+                     <item>Tho. Fossee</item>
+                     <item>Ben. Gooch</item>
+                     <item>Francis Davies</item>
+                     <item>Iames Cooke</item>
+                     <item>Tho. Starke</item>
+                     <item>Tho. Hurdman</item>
+                     <item>Robert Gray</item>
+                     <item>David Bower</item>
+                     <item>Tho. Goddard</item>
+                     <item>William Barnes</item>
+                     <item>Io. Nayler</item>
+                     <item>Henry Hill</item>
+                     <item>Io. Taylor.</item>
+                     <item>Mich. Philips</item>
+                     <item>Simon Hindes</item>
+                     <item>Martin Crotchett</item>
+                     <item>Nich. Keene</item>
+                     <item>William Roach</item>
+                     <item>Stephen Livermore</item>
+                     <item>Tho. Clarke</item>
+                     <item>Sam. Clarke</item>
+                     <item>George Perry</item>
+                     <item>Rich. Humphry</item>
+                     <item>Henry Harvie</item>
+                     <item>Henry Rix</item>
+                     <item>Tho. Iohnson</item>
+                     <item>Sam. Hansell</item>
+                     <item>Edw. Philips</item>
+                     <item>Nich. Early</item>
+                     <item>Edw. Guest</item>
+                     <item>Edmund Munneys</item>
+                     <item>Robert Cully</item>
+                     <item>Robert Wormell</item>
+                     <item>Ralph Rayland</item>
+                     <item>Io. Chapman</item>
+                     <item>Nath. Bradley</item>
+                     <item>Richard Whitney</item>
+                  </list>
+                  <list>
+                     <head>Of Captain-<hi>Blackwels</hi> Troop.</head>
+                     <item>IOhn Martin</item>
+                     <item>Nich. Moore</item>
+                     <item>Iohn Higens</item>
+                     <item>Ralph Roberts</item>
+                     <item>Edward Travers</item>
+                     <item>Isaac Ley</item>
+                     <item>Will. Raunce</item>
+                     <item>Richard Cooke</item>
+                     <item>Iames Deare</item>
+                     <item>Iohn Deare</item>
+                     <item>Tho. Outinge</item>
+                     <item>Iames Carsey</item>
+                     <item>Ben. Waller</item>
+                     <item>Samuel Roberts</item>
+                     <item>Walter Nicke</item>
+                     <item>Io. Hill</item>
+                     <item>Iohn Manne<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                     <item>Iohn Brasbrey</item>
+                     <item>Iohn Fuller</item>
+                     <item>Peter Moore</item>
+                     <item>Richard Dyer</item>
+                     <item>Robert Mumford</item>
+                     <item>Richard Barneby</item>
+                     <item>Henry Violet</item>
+                     <item>Io. Coale</item>
+                     <item>William Walker</item>
+                     <item>Richard Higgs</item>
+                     <item>William Savill</item>
+                     <item>Tho. Person</item>
+                     <item>William Smith</item>
+                     <item>Robert Lucas</item>
+                     <item>Io. Carter</item>
+                     <item>Robert Stevens</item>
+                     <item>Francis Blades</item>
+                     <item>Thomas Walker</item>
+                     <item>Edward Handwell</item>
+                     <item>Io. Tempest</item>
+                     <item>Io. Deywood</item>
+                     <item>Io. Arnoll</item>
+                     <item>William Mapes</item>
+                     <item>Robert Gillman</item>
+                     <item>Io. Thompson</item>
+                     <item>Will Mardicke</item>
+                     <item>Sam. Hague</item>
+                     <item>Io. Ward</item>
+                     <item>Will. Green</item>
+                     <item>Ben. Turner.</item>
+                  </list>
+                  <list>
+                     <head>Of Captain Enfors Troop.</head>
+                     <item>GEorge Va<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </item>
+                     <item>Roger Hawen</item>
+                     <item>Matth. Fairweather</item>
+                     <item>Iames White</item>
+                     <item>Ieremy Stower<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                     <item>Tho. Dyamant</item>
+                     <pb n="8" facs="tcp:165153:5"/>
+                     <item>Tho. Edenton</item>
+                     <item>Iohn Richerdson</item>
+                     <item>Rich. Scout</item>
+                     <item>Simon Brissengam</item>
+                     <item>Tho. Osburne</item>
+                     <item>George Mead</item>
+                     <item>Tho. Cook</item>
+                     <item>Iohn Barnes</item>
+                     <item>Will. Stonehouse</item>
+                     <item>Francis Spencer</item>
+                     <item>Will. Crob</item>
+                     <item>Robert Potter</item>
+                     <item>Will. Atkins</item>
+                     <item>Henry Green</item>
+                     <item>Richard Palmer</item>
+                     <item>Richard Loverke</item>
+                     <item>Robert Knight</item>
+                     <item>Will. Brandhurst</item>
+                     <item>Thomas Poole</item>
+                     <item>Peter Baker</item>
+                     <item>Iohn Smith</item>
+                     <item>Tho. Morley</item>
+                     <item>Jeremy White</item>
+                     <item>Daniel Weed</item>
+                     <item>Joseph Ives</item>
+                     <item>George Collins</item>
+                     <item>Jonathan Churchhill</item>
+                     <item>Francis Church</item>
+                     <item>George Mallet</item>
+                     <item>Thomas Bragg</item>
+                     <item>Henry Bragg</item>
+                     <item>Sam. Jackson</item>
+                     <item>Thomas Jackson</item>
+                     <item>Philip Bladen</item>
+                     <item>Arthur Bradhurst</item>
+                     <item>Will. Banbury</item>
+                     <item>Iohn Lane</item>
+                     <item>Will. Moore</item>
+                     <item>Nathaniel Browne</item>
+                     <item>Iohn Gilles</item>
+                     <item>Robert Mtnnings</item>
+                     <item>Goodier Poyser</item>
+                     <item>Iohn Woodrofe</item>
+                     <item>Anthony Whetley</item>
+                     <item>Iohn Comly</item>
+                     <item>Thomas Prat</item>
+                     <item>Isaack Fairweathers</item>
+                     <item>Ioseph Leake</item>
+                     <item>William Cary</item>
+                     <item>Richard Knot</item>
+                     <item>Joseph Wood</item>
+                     <item>Robert Knight</item>
+                     <item>William Newman</item>
+                     <item>Will. Gaynet</item>
+                     <item>Robert Garnet</item>
+                     <item>Jonathan Bodsden.</item>
+                  </list>
+                  <list>
+                     <head>Of Cap <hi>Scottons</hi> Troop</head>
+                     <item>Claude Meceron</item>
+                     <item>Richard Smith</item>
+                     <item>Will. Colburne</item>
+                     <item>William Wells</item>
+                     <item>Rowland Mason</item>
+                     <item>Will. Taylor</item>
+                     <item>Simon Skilman</item>
+                     <item>Iohn Riles</item>
+                     <item>Ed. How</item>
+                     <item>Rob. Kendall</item>
+                     <item>Thomas Silverstone</item>
+                     <item>Rich. Worslee</item>
+                     <item>Tho. Mussen</item>
+                     <item>Edwaad Mussen</item>
+                     <item>George Whittington</item>
+                     <item>Ed. Marvin</item>
+                     <item>Daniel Orrice</item>
+                     <item>Ed. Barnes</item>
+                     <item>Jeremiah Reve</item>
+                     <item>Iohn Bray</item>
+                     <item>Ben. Barber</item>
+                     <item>Rob. Leonard</item>
+                     <item>Rich. Collis</item>
+                     <item>Paul Barber</item>
+                     <item>Iohn Wells</item>
+                     <item>Ed. Rauton</item>
+                     <item>Tho. Cox</item>
+                     <item>Tho. Scotten</item>
+                     <item>Tho. White</item>
+                     <item>Nat. Orrice</item>
+                     <item>Iohn Crampton</item>
+                     <item>Will. Walker</item>
+                     <item>Rob. Smith</item>
+                     <item>Will. Mason</item>
+                     <item>Will. Kilderby</item>
+                     <item>Richard Playce</item>
+                     <item>Henry Wellin</item>
+                     <item>Henry Barrow</item>
+                     <item>Thomas Stocke</item>
+                     <item>Will. Hambley</item>
+                     <item>David Merrideth</item>
+                     <item>Edmund Hinkes</item>
+                     <item>Rich. Powel</item>
+                     <item>Roger Gay</item>
+                     <item>Tho, Blisse</item>
+                     <item>Miles Browne</item>
+                     <item>Adam Coe</item>
+                     <item>Hugh Owen</item>
+                     <item>Moses Pepper</item>
+                     <item>Charles Phelps</item>
+                     <item>Iohn Liftchild</item>
+                     <item>Nick. Bonnefield</item>
+                     <item>Will- Liftchild</item>
+                     <item>Fran. Cock</item>
+                     <item>Tho. Taylor</item>
+                     <item>Tho. White</item>
+                     <item>Tho. Millard</item>
+                     <item>Will. Harding</item>
+                     <item>Will. Loader</item>
+                     <item>Will. Nicholdson</item>
+                     <item>Tho. Howard</item>
+                     <item>Will. Cocke</item>
+                     <item>Rob. Boon</item>
+                     <item>Rob. Sharpe.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
